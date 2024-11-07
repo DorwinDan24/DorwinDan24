@@ -24,6 +24,7 @@ I've taken several courses that have contributed to my cybersecurity knowledge:
 - **Foundation of Cybersecurity**
 - **Manage Security Risks**
 - **Network Architecture**
+- **Security Audit**
 - **Network Security**
 - **Linux and SQL**
 - **Assets, Threats, and Vulnerabilities**
